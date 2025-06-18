@@ -4,8 +4,7 @@ A simple and customizable Password Generator web app built using *HTML, **CSS, a
 
 ## 🚀 Live Demo
 
-[Click here to view the deployed site](#)  
-(Replace # with your Netlify or GitHub Pages link)
+[Click here to view the deployed site](https://harshaegiteela.github.io/Password_Generator/)  
 
 ## 🧰 Features
 
